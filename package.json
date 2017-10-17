@@ -1,0 +1,19 @@
+{
+  "name": "nerdsjs",
+  "version": "1.0.0",
+  "description": "NodeJS REST",
+  "main": "server.js",
+  "scripts": {
+    "test": "testjsjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErikViking/nerdsjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErikViking/nerdsjs/issues"
+  },
+  "homepage": "https://github.com/ErikViking/nerdsjs#readme"
+}
